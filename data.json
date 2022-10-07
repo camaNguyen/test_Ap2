@@ -1,0 +1,31 @@
+{
+    "headers": [
+        "User ID",
+        "Name",
+        "Occupation",
+        "Age"
+    ],
+
+    "rows": [
+    [
+        20012,
+        "Loi",
+        "BE data",
+        21
+    ],
+
+    [
+        77943,
+        "N.Hieu",
+        "BE",
+        21
+    ],
+
+    [
+        15471,
+        "TriDuc",
+        "FE",
+        21
+    ]
+]
+}
